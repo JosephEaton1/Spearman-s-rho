@@ -8,3 +8,4 @@ FORTRAN scripts used to compute frequency tables of S statistic. Note, scripts m
 
 ### Frequency Tables
 Frequency tables of S and CDF of rho for n = 18 to 30
+- cdf_ni.csv, frequency table for n = i
